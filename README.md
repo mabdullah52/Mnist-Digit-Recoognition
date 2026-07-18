@@ -185,16 +185,4 @@ Connect
 
    
 
-*Part of my journey from zero to AI/ML engineer. Building projects, learning concepts, and documenting everything along the way.*
- 
-
-   
-
- 🎯 Quick Actions
-
-1. Create the README:
-  Copy the markdown above
-  Save as `README.md` in your project folder
-2. Repository Description (use when creating the repo):
- 
-First deep learning project using neural networks to classify handwritten digits (0 9) from the MNIST dataset. Built with Keras/TensorFlow, achieving 97.31% validation accuracy. Part of my AI/ML learning journey from beginner to advanced.
+Part of my journey from zero to AI/ML engineer. Building projects, learning concepts, and documenting everything along the way.
